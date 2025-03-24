@@ -1,3 +1,6 @@
+/**
+ * @author Aimery Dreux
+ */
 public class longDistanceRunner extends trackAthlete{
     private String event;
 

@@ -1,3 +1,6 @@
+/**
+ * @author Aimery Dreux
+ */
 import java.util.*;
 public class trackAthlete{
     public static void main(String[] args)

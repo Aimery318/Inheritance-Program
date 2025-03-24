@@ -1,3 +1,6 @@
+/**
+ * @author Aimery Dreux
+ */
 public class sprinter extends trackAthlete{
     private String event;
 
